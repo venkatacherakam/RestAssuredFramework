@@ -1,0 +1,7 @@
+<suite name="API Suite">
+    <test name="User API Tests">
+        <classes>
+            <class name="testcases.UserAPITest" />
+        </classes>
+    </test>
+</suite>
